@@ -19,7 +19,7 @@ It’s built for hands-on learning, research exposure, and real-world AI experie
 ✔️ Works with standard datasets
 ✔️ Modular, clean & scalable code
 ✔️ Optional: Flask/Streamlit app for demonstration
-✔️ Built using modern DL models (CNN-LSTM, Transformers, U-Net, Mask R-CNN)
+✔️ Built using modern DL models (CNN-LSTM, Transformers, Mask R-CNN)
 
 🧠 Tech Stack
 Languages & Frameworks
