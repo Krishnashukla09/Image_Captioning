@@ -99,12 +99,6 @@ python app.py
 
 🏆 Learning Outcomes
 
-By completing this project, you will gain:
-
-💡 Advanced understanding of Computer Vision + NLP
-
-🔍 Experience with MS COCO / Pascal VOC
-
 🧩 Practical Deep Learning workflow knowledge
 
 🚀 Deployment experience with Flask/Streamlit
